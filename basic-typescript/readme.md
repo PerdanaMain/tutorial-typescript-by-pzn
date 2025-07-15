@@ -18,4 +18,7 @@
         "include": ["src/**/*.ts", "src/**/*.tsx"],
         "exclude": ["src/**/*.test.ts", "src/**/*.test.tsx"],
 
-### TS Primitif Data :
+### TS Basic Summary:
+    1. semua fitur yang ada di javascript, juga dapat dijalankan di typescript
+    2. yang membedakan typescript dengan javascript adalah typescript memiliki tipe data yang harus didefinisikan tiap variabel dan parameternya
+    3. jika ingin seperti javascript, kita bisa menggunakan tipe data any
